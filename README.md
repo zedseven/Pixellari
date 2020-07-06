@@ -7,7 +7,7 @@ Created on 2017-01-07 using the awesome free font-making tool, [BitFontMaker 2](
 
 If you're looking to download it, please consider downloading from [Dafont][font-link] if possible, as it makes it more popular on the website. :)
 
-![Hi Github! :)](https://img.dafont.com/preview_bitmap.php?text=Hi+Github%21+%3A%29&ttf=pixellari0&ext=1&size=12)
+![Hi Github! :)](https://img.dafont.com/preview_bitmap.php?text=Hi+GitHub%21+%3A%29&ttf=pixellari0&ext=1&size=12)
 
 ### [Link][font-link]
 
