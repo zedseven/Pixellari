@@ -1,7 +1,7 @@
 # Pixellari
 [![License: Open Font-1.1](https://img.shields.io/badge/License-OFL%201.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1)
 
-A simple pixel font that's 100% free to use.
+A simple pixel font that's 100% free to use. The only thing I ask for is credit, if possible.
 
 Created on 2017-01-07 using the awesome free font-making tool, [BitFontMaker 2](http://www.pentacom.jp/pentacom/bitfontmaker2/).
 
