@@ -24,6 +24,7 @@ If you're looking to download it, please consider downloading from [Dafont][font
 - **[Flashcard Dungeon](https://benjaminnolan.itch.io/flashcard-dungeon)**
 - **[Pixel Space Shooter](https://tarcisiotm.itch.io/pixel-space-shooter)**
 - **[Circuit Rush](https://lucky89-games.itch.io/circuit-rush)**
+- **[Pixel Fishing](https://play.google.com/store/apps/details?id=com.irchit_dev.pixelfishing&hl=en_US)**
 
 *...and more!*
 
