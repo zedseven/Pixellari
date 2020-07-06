@@ -9,6 +9,8 @@ If you're looking to download it, please consider downloading from [Dafont][font
 
 ![Hi Github! :)](https://img.dafont.com/preview_bitmap.php?text=Hi+Github%21+%3A%29&ttf=pixellari0&ext=1&size=12)
 
+### [Link][font-link]
+
 ## Known Usages
 ###### *go check em out!*
 
